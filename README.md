@@ -31,3 +31,5 @@ This repository is intended for learning and practicing AWS CI/CD concepts using
 
 ---
 *Data was generated using [Mockaroo](https://mockaroo.com/) and the code was generated using **Google Antigravity IDE**.*
+*All AWS resources like S3, pipeline was all deleted to prevent any cost incurred.*
+*View documentation and test screenshots: [aws-simple-cicd-practice documentation](https://jeffjojerjonescatulay.github.io/project-docu-pages/aws-simple-cicd-practice/index.html)*
