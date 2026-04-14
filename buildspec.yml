@@ -1,0 +1,23 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 18
+  pre_build:
+    commands:
+      - echo "Starting the pre-build phase..."
+  build:
+    commands:
+      - echo "No compilation required for this static website."
+      - echo "Validating directory structure..."
+      - ls -R html/
+  post_build:
+    commands:
+      - echo "Build completed on `date`"
+
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'html'
+  discard-paths: no
