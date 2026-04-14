@@ -1,4 +1,4 @@
-const MOCK_DATA = [{"id":1,"first_name":"Carlota","last_name":"Skein","email":"cskein0@jigsy.com","gender":"Female","catch_phrase":"Adaptive logistical alliance"},
+const MOCK_DATA = [{"id":1,"first_name":"Jeff Jojer Jones","last_name":"Catulay","email":"test@gmail.com","gender":"Female","catch_phrase":"Adaptive logistical alliance"},
 {"id":2,"first_name":"Rainer","last_name":"Milne","email":"rmilne1@nih.gov","gender":"Male","catch_phrase":"Optional context-sensitive frame"},
 {"id":3,"first_name":"Dyan","last_name":"Wanne","email":"dwanne2@indiegogo.com","gender":"Female","catch_phrase":"Synchronised explicit open architecture"},
 {"id":4,"first_name":"Marcel","last_name":"Salliere","email":"msalliere3@baidu.com","gender":"Male","catch_phrase":"Automated transitional protocol"},
